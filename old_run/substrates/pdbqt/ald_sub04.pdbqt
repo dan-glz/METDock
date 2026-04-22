@@ -1,0 +1,24 @@
+REMARK SMILES N[C@@H](CC=O)C([O])=O
+REMARK SMILES IDX 3 1 4 2 5 3 2 4 6 5 8 6 7 7 1 8
+REMARK H PARENT 1 9 1 10
+ROOT
+ATOM      1  C   UNL     1      -1.928   0.430  -1.069  1.00  0.00     0.102 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   UNL     1      -2.031  -0.631  -2.129  1.00  0.00     0.226 C 
+ATOM      3  O   UNL     1      -2.782  -0.485  -3.080  1.00  0.00    -0.303 OA
+ENDBRANCH   1   2
+BRANCH   1   4
+ATOM      4  C   UNL     1      -2.337  -0.103   0.318  1.00  0.00     0.174 C 
+BRANCH   4   5
+ATOM      5  C   UNL     1      -1.461  -1.255   0.746  1.00  0.00     0.372 C 
+ATOM      6  O   UNL     1      -0.257  -1.102   0.880  1.00  0.00    -0.246 OA
+ATOM      7  O   UNL     1      -2.008  -2.463   0.985  1.00  0.00    -0.246 OA
+ENDBRANCH   4   5
+BRANCH   4   8
+ATOM      8  N   UNL     1      -2.242   0.970   1.309  1.00  0.00    -0.318 NA
+ATOM      9  H   UNL     1      -2.557   0.610   2.239  1.00  0.00     0.119 HD
+ATOM     10  H   UNL     1      -2.889   1.748   1.042  1.00  0.00     0.119 HD
+ENDBRANCH   4   8
+ENDBRANCH   1   4
+TORSDOF 4
