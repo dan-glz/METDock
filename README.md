@@ -1,5 +1,5 @@
 # METDock
-This tool is still a work in progress and is expected to be resumed starting January 2026
+This tool is still a work in progress.
 
 ## Overview
 
